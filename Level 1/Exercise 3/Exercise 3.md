@@ -9,4 +9,4 @@ Extra Lessons and Exercises for ECUAD CEIE Class
 
 - 255 by 255 pixels
 
-- when you mouse the mouse, colour the canvas background by the mouse xy position
+- when you move the mouse, colour the canvas background by the mouse xy position
